@@ -1,7 +1,12 @@
-div h2{
-    font-style: italic;
+div h2 {
+  font-style: italic;
 }
 
 h2 + p {
-    color: red ;
+  color: red;
+}
+
+ul.list > li {
+  border-bottom: 1px solid gray;
+  list-style-type: none;
 }
