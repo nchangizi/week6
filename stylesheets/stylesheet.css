@@ -31,3 +31,11 @@ a[title="BCIT homepage"] {
     background-color: yellow;
 
 }
+
+img{
+    float: left;
+}
+
+.below{
+    clear:left;
+}
